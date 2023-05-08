@@ -1,6 +1,6 @@
-### Hi dear 👋, I'm Rodrigo Silva and i'm from Brazil
+### Hi dear 👋, I'm Rodrigo Silva
 
-Hello! My name is Rodrigo Silva, and I am a computer science student passionate about technology. I am a beginner in the programming field and I am always seeking new challenges and learning opportunities.
+And i am a computer science student passionate about technology. I am a beginner in the programming field and I am always seeking new challenges and learning opportunities.
 
 Skills
 
